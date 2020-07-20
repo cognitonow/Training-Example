@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6TBbzxDOmer_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Affiliate Marketing</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Affiliate_Marketing_ORG">
+    <organization identifier="Affiliate_Marketing_ORG">
+      <title>Affiliate Marketing</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6TBbzxDOmer_course_id_RES">
+        <title>Affiliate Marketing</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6TBbzxDOmer_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6OTsRF0TxCT_P_308_4_660_667_DX2000_DY2000_CX661_CY667.png" />
+      <file href="mobile/5wggsXyFPcJ_P_1319_367_407_465_DX4096_DY4096_CX407_CY466.png" />
+      <file href="mobile/6LOUPIN4DF0_DX768_DY768_CX470_CY576.png" />
+      <file href="mobile/6EfEhDaPozi_DX2730_DY2730_CX1512_CY1134.png" />
+      <file href="mobile/64zFHcH0uaz_DX1536_DY1536_CX768_CY1152.png" />
+      <file href="mobile/5wggsXyFPcJ_P_676_365_1066_229_DX4096_DY4096_CX1067_CY229.png" />
+      <file href="mobile/6ATrA3qhK3p_DX2456_DY2456_CX1842_CY1151.png" />
+      <file href="mobile/5lhsg5ld5oG_DX2382_DY2382_CX1786_CY1152.png" />
+      <file href="mobile/5f84kkG3i7g_X_DX1764_DY1764_CX1322_CY831.png" />
+      <file href="mobile/5jmmnb9yQNj_DX1670_DY1670_CX1252_CY1152.png" />
+      <file href="mobile/6ZqzEIOp1al_DX1536_DY1536_CX823_CY1152.png" />
+      <file href="mobile/5WRHyEY7OMx_DX1744_DY1744_CX817_CY1307.png" />
+      <file href="mobile/5idsI6vfdhE_DX1536_DY1536_CX768_CY1152.png" />
+      <file href="mobile/5lhsg5ld5oG_P_426_0_1621_1321_DX2382_DY2382_CX1414_CY1152.png" />
+      <file href="mobile/6ATrA3qhK3p_P_240_0_1807_1280_DX2456_DY2456_CX1626_CY1151.png" />
+      <file href="mobile/6px49uWGNR9_DX2762_DY2762_CX2048_CY1365.jpg" />
+      <file href="mobile/6LOUPIN4DF0_DX768_DY768_CX205_CY251.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/6oa5EeuFGMm.js" />
+      <file href="html5/data/js/6bxsjjxV74O.js" />
+      <file href="html5/data/js/6i971HVzT2U.js" />
+      <file href="html5/data/js/6HHunfbqy3e.js" />
+      <file href="html5/data/js/5wFFwy9Y7HJ.js" />
+      <file href="html5/data/js/6rfDYRRnE2p.js" />
+      <file href="html5/data/js/5g42cm9OA2J.js" />
+      <file href="html5/data/js/5oC5zgHZdS8.js" />
+      <file href="html5/data/js/5emWFuiUjZX.js" />
+      <file href="html5/data/js/68J2GK5ovD4.js" />
+      <file href="html5/data/js/5yrAhNoGg4F.js" />
+      <file href="html5/data/js/67DxR5SRsdZ.js" />
+      <file href="html5/data/js/6ka1DsHmMoM.js" />
+      <file href="html5/data/js/5kltpkf4gjx.js" />
+      <file href="html5/data/js/6lFwQCtrBEq.js" />
+      <file href="html5/data/js/5dMDwiCjM2M.js" />
+      <file href="html5/data/js/5gPrTVhhpeG.js" />
+      <file href="html5/data/js/5ilZecqeIWb.js" />
+      <file href="html5/data/js/6Df58it9zG0.js" />
+      <file href="html5/data/js/6NGdoKl76nP.js" />
+      <file href="html5/data/js/5ennp9QV0ti.js" />
+      <file href="html5/data/js/5zmghFVqUcU.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
